@@ -1,3 +1,5 @@
 # GAMMA
-DEVELOPING IMAGING SYSTEM USING CAMANJS 
-TECHNIQUES TO ANALYZE AND VISUALIZE STREAM IMAGES
+DEVELOPING IMAGING SYSTEM USING CAMANJS, TECHNIQUES TO ANALYZE AND VISUALIZE STREAM IMAGES
+
+# Who is this book for?
+This book is for everyone, amateur photographers, professional photographers, creative digital specialists, and creative industries. Unlike other books that spend hundreds of pages talking about theories of photography and technicality behind the photos and doesn't provide the secret recipes. This book is intended to provide tools and materials to help you boost your creativity in photography and to encourage you to think with a vision of how photography composed in a simple context. This book is the first series of the upcoming series of black and white photography captured in different countries around the world. The increasing of digital photography is becoming much more advanced to be mastered and covered in a book, and technologies shouldn't be complex to provide a good photo, but rather provide contents that express the photographer's visions and feelings, which is the aim of this book.
