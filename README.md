@@ -1,6 +1,6 @@
 # GAMMA
 
-Gamma is a book for developers, although the first two chapters cover installation guide at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of gamma. This repository contains the complete draft [first edition] published in September 2018, paperback and ebook formats will be released and announced once compilation is done.
+Gamma is a book for developers, although the first two chapters cover installation guide at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of gamma. GAMMA is for everyone, amateur photographers, astrophotographers, creative digital specialists, and creative industries. Unlike other books that spend hundreds of pages talking about theories of photos and technicality behind the photos and doesn't provide the secret recipes. This book is intended to provide tools in the multidisciplinary field of imaging science you will be able to provide analysis, modification, and visualization of images, including imaging things that the human eye cannot detect. This repository contains the complete draft [first edition] published in September 2018, paperback and ebook formats will be released and announced once compilation is done.
 
 # Issues, Errors, Comments, Contributions
 
