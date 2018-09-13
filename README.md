@@ -12,7 +12,7 @@ To read this book, see [BOOK]( https://github.com/GAMMABOOK/GAMMA/EBOOK/GAMMA.pd
 The 1st edition of "GAMMA" is available under a CC-BY-NC-ND license, not a CC-BY-SA license. Please don't create or distribute PDFs until the license is fully changed to CC-BY-SA. It is rare for a publisher to even agree to a CC-BY-NC-ND license. Don't make it harder for free culture by violating even that, already generous, license. 
 
 # Published
-"GAMMA (First Edition)" is now available under review in amazon books and ebook formats by many book sellers worldwide, update will be announced once approved.
+"GAMMA (First Edition)" is now available for purchase in kindle version as ebook format <a rel="license" href="https://www.amazon.co.uk/dp/B07H8HVQ7Z">amazon</a>.
 
 # Sources & Tools
 The book's source code, found in this repository, is kept synchronized with the print and ebook editions.
